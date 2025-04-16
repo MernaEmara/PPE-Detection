@@ -2,9 +2,7 @@ numpy==2.2.4
 onnxruntime==1.21.0
 Pillow==11.2.1
 PyYAML==6.0.2
-PyYAML==6.0.2
 streamlit==1.17.0
-torch==2.6.0
 torch==2.0.1+cpu
 torchvision==0.15.2+cpu
 ultralytics==8.3.108
