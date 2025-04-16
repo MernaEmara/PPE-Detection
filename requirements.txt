@@ -5,3 +5,4 @@ PyYAML==6.0.2
 streamlit==1.17.0
 torch
 torchvision
+altair==4.2.2
