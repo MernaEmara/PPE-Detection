@@ -1,0 +1,4 @@
+
+
+streamlit run c:/Users/Emara2/Documents/DEPIproject/app.py
+
