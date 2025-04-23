@@ -124,19 +124,6 @@ To run the PPE Detection System locally, follow these steps:
 A live demo of the PPE Detection System is available at: \[Insert Demo URL or Placeholder, e.g., `https://ppe-detection-demo.azurewebsites.net`\].\
 Please contact the team for access credentials or to schedule a live demonstration.
 
-## Project Structure
-
-```
-PPE-Detection-YOLO/
-├── data/                    # Datasets and preprocessed images
-├── models/                  # Trained YOLO model weights
-├── src/                     # Source code for preprocessing, training, and inference
-├── app.py                   # Web interface application
-├── requirements.txt         # Python dependencies
-├── docs/                    # Documentation (API, MLOps pipeline, etc.)
-└── README.md                # This file
-```
-
 ## Future Improvements
 
 - Incorporate advanced YOLO variants (e.g., YOLOv8) for improved accuracy and speed.
