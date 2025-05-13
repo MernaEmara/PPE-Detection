@@ -33,6 +33,7 @@ networkx==3.4.2
 numpy==2.1.1
 onnxruntime==1.21.0
 opencv-python-headless==4.11.0.86
+opencv-python==none  # Block installation
 packaging==24.2
 pandas==2.2.3
 pillow==11.2.1
